@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: uArm-Python-SDK
+Version: 2.0.6
+Summary: Python SDK for uArm
+Home-page: https://github.com/uarm-developer/uArm-Python-SDK
+Author: Vinman
+Author-email: developer@ufactory.cc
+License: BSD
+Keywords: uarm4py uarmForPython uarm ufactory uarmForPython swift swiftpro swiftForPython swift4py
+License-File: LICENSE
+
+long description for uarm
